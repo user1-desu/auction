@@ -10,7 +10,7 @@ Item.create(
   description: "1995年のランニングマックスモデルの復刻版。時代を席巻した名モデルAIR MAX 95。当時は斬新でハイテクなルックスがストリートのファッションシーンを席巻しました。",
   price: 25000,
   seller_id: 746,
-  email: "daisuke@nashiro.org",
+  email: "yatsu@auction.org",
   image_url: "http://news.digitallab.biz/wordpress/wp-content/uploads/Nike-Air-Max-95-Neon.jpg"
 )
 Item.create(
@@ -18,6 +18,6 @@ Item.create(
   description: "横にシューレースがある斬新なモデル。大切にしていただける方にお譲りします。",
   price: 18000,
   seller_id: 32,
-  email: "foo@example.com",
+  email: "yatsu@auction.com",
   image_url: "http://www.furugikaitori.co.jp/auction/item/F351-1.jpg"
 )
